@@ -1,7 +1,7 @@
 This project will show you how to build an IoT dust detector with an inexpensive and easy-to-find component. Also, 
 this project is for educational purposes, so feel free to apply or change anything as you like or see fit.／人◕ ‿‿ ◕人＼
 
-list of the component 
+List of the component 
 1. Wemos D1 R2 
 2. Sharp GP2Y1014AU0F optical dust sensor
 3. Resistor(R) 150 ohm
