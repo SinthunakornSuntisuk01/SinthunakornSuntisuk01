@@ -64,14 +64,17 @@ void loop() {
   else if (dustDensity >= 201){
     LINE.notify(dustDensity);
     LINE.notify("The dust particles in the air are at an extremely high level."); 
+    delay (60UL  60UL  1000UL);
   }
   else if (dustDensity >= 101){
     LINE.notify(dustDensity);
     LINE.notify("The dust particles in the air are at a high level.");
+    delay (60UL  60UL  1000UL);
   }
   else if (dustDensity >= 51){
     LINE.notify(dustDensity);
     LINE.notify("The dust particles in the air are at a medium level.");
+    delay (60UL  60UL  1000UL);
   } 
   
   Serial.print(" - Dust Density: ");
