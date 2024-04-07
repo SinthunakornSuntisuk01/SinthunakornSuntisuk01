@@ -10,5 +10,6 @@ List of the component
 6. Jumper wire
 
 Q. What this project can do?
+
 A. This project will detect the dust particles in the air and then send a notification through your messaging app, such as Whatsapp, Telegram, LINE, Discord, etc.
    The messaging app that I've chosen for this project is LINE because it's the most popular messaging app in my country. So 
